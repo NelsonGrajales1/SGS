@@ -10,8 +10,13 @@ UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
 
 *.log
+*.json
 log.txt
 
+karma.conf.js
+capacitor.config.ts
+.browserlistrc
+.editorconfig
 
 /.sourcemaps
 /.versions
