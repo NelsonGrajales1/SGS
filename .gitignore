@@ -13,10 +13,10 @@ $RECYCLE.BIN/
 *.json
 log.txt
 
-/karma.conf.js
-/capacitor.config.ts
-/.browserlistrc
-/.editorconfig
+karma.conf.js
+capacitor.config.ts
+.browserslistrc
+.editorconfig
 
 /.sourcemaps
 /.versions
